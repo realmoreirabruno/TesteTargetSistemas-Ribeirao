@@ -1,0 +1,6 @@
+Primeiro voce liga o primeiro interruptor por mais ou menos 10 minutos para a lampada aquecer.
+Após isso, desligue o primeiro e acenda o segundo.
+Vá ate o local que as lampadas estão.
+A que estiver acesa está conectada ao segundo interruptor.
+Por fim, toque nas lampadas desligadas.
+A que estiver quente está conectada ao primeiro interruptor.
